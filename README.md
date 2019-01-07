@@ -47,4 +47,5 @@ Automatic creation of Tibetan poetry and Tang poetry based on LSTM in tensorflow
 
 * 2. >train_model.py Training  the LSTM mdoel
     >gene_head_poetry.py Generating a Tibetan poetry.
+    
     >gene_poetry.py Generating a Tang poetry.
