@@ -1,6 +1,8 @@
 # Automatic-creation-of-Tibetan-poetry-and-Tang-poetry
 Introduction
+
 Automatic creation of Tibetan poetry and Tang poetry based on LSTM in tensorflow.
+
 Result:
 藏头诗生成效果:
 武汉别名江城，这哥别名源于李白的《与史郎中钦听黄鹤楼上吹笛》，一为迁客去长沙，西望长安不见家。黄鹤楼中吹玉笛，江城五月落梅花。镌刻于如今重建的黄鹤楼。下面以江城美景为头：
