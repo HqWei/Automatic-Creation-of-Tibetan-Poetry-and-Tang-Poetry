@@ -1,1 +1,7 @@
 
+## Data
+The training data set is 34,646 Tang poems. Please cd data diretion and run the following code:
+
+        tar -xvzf data.tar.gz 
+        
+Then put it in the right direction.
