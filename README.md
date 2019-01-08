@@ -2,7 +2,12 @@
 ## Introduction
 
 Automatic creation of Tibetan poetry and Tang poetry based on LSTM in tensorflow.
+## Data
+The training data set is 34,646 Tang poems. Please cd data diretion and run the following code:
 
+        tar -xvzf data.tar.gz 
+        
+Then put it in the right direction.
 ## Result:
 
 ### 藏头诗生成效果:
